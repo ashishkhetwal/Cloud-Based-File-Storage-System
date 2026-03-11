@@ -6,6 +6,12 @@ A Flask-based web application that allows users to upload files which are stored
 - boto3
 - AWS EC2
 - AWS S3
+- ##Prerequisites:
+- - Python 3
+- -AWS account
+- -AWS S3 bucket
+- -EC2 instance
+- -Git
 ## Deployment Steps
 # Connect to EC2 instance
 ssh -i your-key.pem ec2-user@your-ec2-public-ip
